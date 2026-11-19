@@ -4,6 +4,6 @@ A restricted, data-only YAML parser for untrusted configuration in Common Lisp.
 
 |---------+-------------------------------------------------+
 | source  | git:https://github.com/atgreen/cl-safe-yaml.git |
-| commit  | a334e1d                                         |
+| commit  | 2d07720                                         |
 | systems | cl-safe-yaml                                    |
 |---------+-------------------------------------------------+
